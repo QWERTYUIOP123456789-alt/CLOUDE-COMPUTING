@@ -1,4 +1,4 @@
-# CLOUDE-COMPUTING
+# CLOUD-COMPUTING
 Concepts of cloud computing, basics, related topics details
 ![CC](https://github.com/user-attachments/assets/1e6a7492-720a-46b8-8c5e-bcfccce81ef4)
 Cloud computing is a way to access computing services, like storage, servers, databases, networking, and software, on-demand. It allows users to store files and applications remotely on servers that are maintained by a cloud computing provider
