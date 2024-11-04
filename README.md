@@ -10,12 +10,11 @@ it act as an intermediary between users and computer hardware
     these are the famous or commonly used Operating System(OS):
 
    WINDOWS
-
+   ![image](https://github.com/user-attachments/assets/98ea8da4-cc29-4e4c-b60d-857569a8f998)
    MACos
-
-   LINUX
-
-   ![IMAGE ALT](https://github.com/Gautam-io-dev/Basic-Computer-Science-Keywords/blob/54d7a10bf9fcef76f1aa5a7e7472b32a15f7cef2/Image%203.jpeg)
+   ![image](https://github.com/user-attachments/assets/f199f816-d99f-4f7b-acc1-1bf6a8ae014d)
+LINUX
+![image](https://github.com/user-attachments/assets/d5743e4b-04cc-432f-af92-47a6c94d9e0d)
 
 3. **BARE METAL**: Bare metal refers to a computer system or servers that runs without a layer of abstraction such as a virtulization layer or operating system.
 in this context, "bare metal" means the hardware is directly utilized for a single application or workload, allowing  for maximum performance and control
