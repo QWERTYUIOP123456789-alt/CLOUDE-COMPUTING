@@ -1435,35 +1435,48 @@ Kubernetes is a powerful platform for container orchestration that simplifies th
 ### Types of Crypto Mining
 
 1. **Proof of Work (PoW)**:
+2. ![image](https://github.com/user-attachments/assets/9804f736-ee52-411e-8bb3-72be03de4664)
+
    - **Process**: Requires miners to solve complex mathematical problems to validate transactions and create new blocks. Bitcoin and Ethereum (before Ethereum 2.0) use PoW.
    - **Resources**: Involves significant computational power and energy consumption.
 
-2. **Proof of Stake (PoS)**:
+3. **Proof of Stake (PoS)**:
+4. ![image](https://github.com/user-attachments/assets/d2f217cf-2f84-4a35-a0bc-23da4ec9125f)
+
    - **Process**: Validators are chosen to create new blocks based on the number of coins they hold and are willing to "stake" as collateral. PoS is used by cryptocurrencies like Ethereum 2.0 and Cardano.
    - **Resources**: Generally requires less computational power and energy compared to PoW.
 
-3. **Hybrid Models**:
+5. **Hybrid Models**:
+6. ![image](https://github.com/user-attachments/assets/4750a72a-875b-4eb7-a6be-235083ffff5e)
+
    - **Combination**: Some cryptocurrencies use a combination of PoW and PoS or other consensus mechanisms to balance security and efficiency.
 
-4. **Cloud Mining**:
+7. **Cloud Mining**:![image](https://github.com/user-attachments/assets/58161896-8a2f-4485-afbb-19e20fd093c3)
+
    - **Outsourcing**: Allows individuals to rent mining hardware from a service provider. The service provider manages the hardware and mining operations, while users share in the mining rewards.
    - **Considerations**: Users must evaluate the reliability and profitability of cloud mining services.
 
-### Hardware for Crypto Mining
+### Hardware for Crypto Mining   ![image](https://github.com/user-attachments/assets/26c95512-7ff1-47b0-9096-e475864b70c0)
 
-1. **Central Processing Units (CPUs)**:
+
+1. **Central Processing Units (CPUs)**: ![image](https://github.com/user-attachments/assets/fdbc2f05-1ad9-48e0-81e9-972010bb256a)
+
    - **General Purpose**: Early cryptocurrencies could be mined using standard CPUs. However, CPUs are now largely obsolete for mining due to the increased difficulty of mining operations.
 
-2. **Graphics Processing Units (GPUs)**:
+2. **Graphics Processing Units (GPUs)**: ![image](https://github.com/user-attachments/assets/d9a288d0-83a4-4a89-8c7a-9d5e212f1c05)
+
    - **Specialized**: GPUs are more efficient than CPUs for the parallel processing required in mining. They are commonly used for mining various cryptocurrencies.
 
-3. **Application-Specific Integrated Circuits (ASICs)**:
+3. **Application-Specific Integrated Circuits (ASICs)**:   ![image](https://github.com/user-attachments/assets/2090c7cb-a8e6-499f-a577-08434eda574e)
+
    - **Optimized Hardware**: ASICs are custom-built devices designed specifically for mining particular cryptocurrencies. They offer high performance and energy efficiency but are expensive and less versatile.
 
-4. **Field-Programmable Gate Arrays (FPGAs)**:
+4. **Field-Programmable Gate Arrays (FPGAs)**:  ![image](https://github.com/user-attachments/assets/89376ede-c95f-401b-bb6e-715c897b8708)
+
    - **Customizable**: FPGAs can be configured to perform specific mining tasks and offer a middle ground between GPUs and ASICs in terms of performance and flexibility.
 
-### Environmental and Economic Considerations
+### Environmental and Economic Considerations   ![image](https://github.com/user-attachments/assets/8e4d03b1-8c17-4636-bbb1-6af9df6f35b1)
+
 
 1. **Energy Consumption**:
    - **High Usage**: Mining, especially with PoW, consumes substantial amounts of electricity, raising concerns about its environmental impact.
@@ -1474,6 +1487,3 @@ Kubernetes is a powerful platform for container orchestration that simplifies th
 3. **Centralization**:
    - **Mining Pools**: Many miners join mining pools to combine their computational power and increase the chances of earning rewards. This can lead to centralization, where a few large pools control a significant portion of the network’s mining power.
 
-### Summary
-
-Crypto mining is the process of validating transactions and adding them to a blockchain ledger while creating new cryptocurrency units. It involves solving complex mathematical problems (in PoW) or staking coins (in PoS) to secure the network and earn rewards. Mining requires specialized hardware and consumes significant energy, and its economic viability depends on various factors including hardware costs and market conditions.
